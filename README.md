@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Darrshana Miryala
 
-<!--
-**Darrshana-Miryala/Darrshana-Miryala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bioinformatics Graduate Student • Genomics Researcher • Computational Biology Enthusiast**  
 
-Here are some ideas to get you started:
+🚀 Exploring viral genomics, mutation analysis, and computational workflows  
+🧬 MS in Bioinformatics at Rowan University | Background in Biotechnology  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills & Tools
+
+**Bioinformatics Expertise:** 🧬 Viral genomics | RSV-A | Influenza | RNA-seq | ChIP-seq  
+
+**Programming & Analysis Tools:** 🖥 Python | R | Bash | Pandas | NumPy | Matplotlib | SciPy | Scikit-learn  
+
+**Bioinformatics Tools:** 🔧 Bowtie2 | SAMtools | bcftools | MACS2 | FastQC | IGV | Cytoscape  
+
+---
+
+## 🧩 Current Focus
+
+- 🔬 Viral genome mutation analysis  
+- 💡 Advanced genomic data analysis methods  
+- 🛠 Building computational workflows for sequencing datasets  
+
+---
+
+## 📫 Connect with Me
+
+💬 [LinkedIn](https://linkedin.com/in/darrshana-miryala)  
+📧 Email: mirya32@rowan.edu  
+🌍 Open to collaborations and research ideas
